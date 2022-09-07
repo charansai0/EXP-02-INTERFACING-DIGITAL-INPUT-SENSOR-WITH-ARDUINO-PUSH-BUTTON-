@@ -35,7 +35,7 @@ FIGURE-01
 
 
 FIGURE-02
-PROCEDURE 
+### PROCEDURE 
  Open tinker cad account 
 1.	Select Arduino uno , bread board , digital input and digital output 
 2.	Connect the circuit as given in the figure 
@@ -50,7 +50,7 @@ PROCEDURE
 
 
 
-CIRCUIT DIAGRAM 
+### CIRCUIT DIAGRAM 
 
 
 
@@ -69,7 +69,8 @@ FIGURE -03
 
 
 
-PROGRAM 
+### PROGRAM 
+~~~
 NAME:V.charan sai
 REF NO:212221240061
 // C++ code
@@ -94,13 +95,13 @@ void loop()
     digitalWrite(ledpin,LOW);
   }
 }
+~~~
 
-
-Output of the simulation :
+### Output of the simulation :
 ![afs](https://user-images.githubusercontent.com/94296221/188871416-4fc850dc-c308-4cc0-8f71-5ca8dcc1b5ef.png)
 
 [My image](username.github.com/repository/img/image.jpg)
 
 
-Result:
+### Result:
 Thus, we have interfaced a digital input (push button) and blink of LED upon activation.
