@@ -57,7 +57,7 @@ FIGURE-02
 
 
 ![image](https://user-images.githubusercontent.com/36288975/163530437-87a0afbd-b3c9-44ad-b907-5de63486fb9d.png)
-Before simulation:
+### Before simulation:
 
 ![bfs](https://user-images.githubusercontent.com/94296221/188871389-9d400133-0abc-4701-89e7-649a7c9c295c.png)
 
